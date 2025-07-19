@@ -6,7 +6,7 @@ pipeline {
         // GITBRANCH = "main"
         // GITCREDENTIALS_ID = "evisiondevops"
         IMAGE_NAME = "snap"
-        CONTAINER_NAME = "snap"
+        CONTAINER_NAME = "snapapp"
         DOCKER_REGISTRY = "suhani4"
         HOST_PORT = "80"
         CONTAINER_PORT = "80"
